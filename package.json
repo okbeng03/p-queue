@@ -1,5 +1,5 @@
 {
-	"name": "p-queue",
+	"name": "@okbeng03/p-queue",
 	"version": "7.1.0",
 	"description": "Promise queue with concurrency control",
 	"license": "MIT",
@@ -7,6 +7,7 @@
 	"funding": "https://github.com/sponsors/sindresorhus",
 	"type": "module",
 	"exports": "./dist/index.js",
+	"main": "./dist/index.js",
 	"engines": {
 		"node": ">=12"
 	},
